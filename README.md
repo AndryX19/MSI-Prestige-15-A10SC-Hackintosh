@@ -44,7 +44,7 @@ OpenCore EFI for MSI Prestige 15 A10SC
 ## Installation
  - See Dortania guide > https://dortania.github.io/OpenCore-Install-Guide/installer-guide/
  - Generate yours personal SMBIOS data for MacBookPro15,4
- - with TextEdit put the generated MLB, SerialNo. and UUID in PltformInfo section of config.plist in OC folder
+ - with TextEdit put the generated MLB, SerialNo. and UUID in PlatformInfo section of config.plist in OC folder
  - Use my EFI for boot and install macOS
 
 That's all, good hack.
