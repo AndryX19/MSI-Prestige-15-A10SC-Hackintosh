@@ -8,7 +8,7 @@ OpenCore EFI for MSI Prestige 15 A10SC
 | RAM | 16GB (2 x 8GB) DDR4 HyperX Impact 2666MHz |
 | IGPU | Intel Graphics UHD 630	|
 | DGPU | Nvidia GTX1650 Max-Q |
-| Display | CMN N156HCE-EN1 FHD |
+| Display | CMN N156HCE-EN1 FHD 60Hz |
 | NVMe 1 | Samsung 970 Evo 1TB |
 | Audio | Realtek ACL298 |
 | Wireless | Intel AX201 |
@@ -23,7 +23,8 @@ OpenCore EFI for MSI Prestige 15 A10SC
  - Wi-Fi
  - Bluetooth
  - HDMI
- - Audio
+ - Audio - jack
+ - Webcam and mics
  - All Usb
  - Keyboard
  - Touchpad
