@@ -39,7 +39,7 @@ OpenCore EFI for MSI Prestige 15 A10SC
  - Secure Boot > Disabled
  - CFG Lock > Disabled **
 
-  **For disable it: Press L-ALT + R-CTRL + R-SHIFT + F2 or (fn + F2) for see hidden feature. Then go to: Advanced →       Power & Performance → CPU - Power Management Control → CPU Lock Configuration → CFG Lock
+  **For disable it: Press L-ALT + R-CTRL + R-SHIFT + F2 or (fn + F2) for see hidden feature. Then go to: Advanced →       Power & Performance → CPU - Power Management Control → CPU Lock Configuration → CFG Lock**
 
 ## Installation
  - See Dortania guide > https://dortania.github.io/OpenCore-Install-Guide/installer-guide/
