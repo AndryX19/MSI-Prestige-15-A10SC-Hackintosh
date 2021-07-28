@@ -1004,7 +1004,7 @@
 				<key>boot-args</key>
 				<string>debug=0x100 keepsyms=1 swd_panic=1 alcid=22 -igfxblr</string>
 				<key>csr-active-config</key>
-				<data>/w8AAA==</data>
+				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
 				<string>en-US:0</string>
 				<key>run-efi-updater</key>
