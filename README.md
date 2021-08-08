@@ -1,7 +1,7 @@
 # Hackintosh
 EFI made for MSI Prestige 15 A10SC with Opencore bootloader
 
-## System specification
+## System specifications:
 | **Component** | **Model** |
 | ------------- | --------- |
 | CPU | Intel Comet Lake i7-10710u |
@@ -13,7 +13,7 @@ EFI made for MSI Prestige 15 A10SC with Opencore bootloader
 | Audio | Realtek ACL298 |
 | Wireless | Intel AX201 (wifi+bluetooth) |
 
-**Current OpenCore version 0.7.1**
+**Current OpenCore version: 0.7.2**
 
 ## Compatible macOS versions:
  - Big Sur (11.5) (In use)
@@ -41,7 +41,7 @@ EFI made for MSI Prestige 15 A10SC with Opencore bootloader
 
 **For disable it: Press L-ALT + R-CTRL + R-SHIFT + F2 or (fn + F2) for see hidden feature. Then go to: Advanced → Power & Performance → CPU - Power Management Control → CPU Lock Configuration → CFG Lock**
 
-## Installation
+## Installation:
  - See Dortania guide > https://dortania.github.io/OpenCore-Install-Guide/installer-guide/
  - Generate yours personal SMBIOS data for MacBookPro15,4
  - with TextEdit put the generated MLB, SerialNo. and UUID in PlatformInfo section of config.plist in OC folder
