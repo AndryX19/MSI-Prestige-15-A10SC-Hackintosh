@@ -31,13 +31,13 @@ EFI made for MSI Prestige 15 A10SC with Opencore bootloader
  - Sleep/Wake up
 
 ## What Doesn't Work:
- - Nvidia GTX1650 Max-Q (Not supported > Disabled)
+ - Nvidia GTX1650 Max-Q (Not supported -> Disabled)
  - Fingerprint Reader
  - Microsd Card Reader 
 
 ## BIOS setting:
- - Secure Boot  > Disabled
- - CFG Lock     > Disabled **
+ - Secure Boot  -> Disabled
+ - CFG Lock     -> Disabled **
 
 **For disable it: Press L-ALT + R-CTRL + R-SHIFT + F2 or (fn + F2) for see hidden feature. Then go to: Advanced → Power & Performance → CPU - Power Management Control → CPU Lock Configuration → CFG Lock**
 
