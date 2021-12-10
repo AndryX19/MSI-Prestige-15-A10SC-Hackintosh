@@ -4,12 +4,12 @@ EFI made for MSI Prestige 15 A10SC with Opencore bootloader
 ## System specifications:
 | **Component** | **Model** |
 | ------------- | --------- |
-| CPU | Intel Comet Lake i7-10710u |
-| RAM | 16GB (2 x 8GB) DDR4 HyperX Impact 2666MHz |
+| CPU | Intel Core i7 10710u |
+| RAM | 16GB (2x8GB) DDR4 HyperX Impact @2666MHz |
 | IGPU | Intel Graphics UHD 630	|
 | DGPU | Nvidia GTX1650 Max-Q |
 | Display | CMN N156HCE-EN1 FHD (1080p) 60Hz |
-| NVMe 1 | Samsung 970 Evo 1TB |
+| SSD | NVMe Samsung 970 Evo 1TB |
 | Audio | Realtek ALC 298 |
 | Wireless | Intel AX201 (wifi+bluetooth) |
 
@@ -27,7 +27,7 @@ Probably you can also boot catalina and monterey (require newer bluetooth kext).
  - Audio
  - Webcam and mics
  - All Usb
- - Keyboard
+ - Keyboard (some fn-key also work)
  - Touchpad
  - Sleep/Wake up
 
