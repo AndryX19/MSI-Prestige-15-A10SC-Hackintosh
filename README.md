@@ -15,9 +15,10 @@ EFI made for MSI Prestige 15 A10SC with Opencore bootloader
 
 **Current OpenCore version: 0.7.3**
 
-## Compatible macOS versions:
+## Used macOS version:
  - Big Sur (11.6 in use)
- - Catalina (not tested)
+
+Probably you can also boot catalina and monterey (require newer bluetooth kext). Not tested
 
 ## What Works:
  - Wi-Fi
