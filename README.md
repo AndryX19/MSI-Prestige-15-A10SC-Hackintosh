@@ -13,7 +13,7 @@ EFI made for MSI Prestige 15 A10SC with Opencore bootloader
 | Audio | Realtek ALC 298 |
 | Wireless | Intel AX201 (wifi+bluetooth) |
 
-**Current OpenCore version: 0.7.3**
+**Current OpenCore version: 0.7.6**
 
 ## Used macOS version:
  - Big Sur (11.6 in use)
